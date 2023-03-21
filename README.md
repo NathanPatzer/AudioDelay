@@ -1,2 +1,2 @@
 # AudioDelay
-Delay plugin using juce framework
+Simple Delay plugin using juce framework with ping pong added.
